@@ -40,4 +40,4 @@ def manipulate_audio(input_path, output_path):
         print(f"❌ Terjadi kesalahan: {e}")
 
 if __name__ == "__main__":
-    manipulate_audio('example.mp3', 'result.mp3')
+    manipulate_audio('music.mp3', 'result.mp3')
